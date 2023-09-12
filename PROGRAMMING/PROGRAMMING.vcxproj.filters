@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PROGRAMMING.cpp">
+    <ClCompile Include="DataTypesTask4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
